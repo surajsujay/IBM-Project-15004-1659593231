@@ -10,7 +10,7 @@ News Tracker Application
 # Team Members :
 |   **Title**   |      **Name**     |
 |:-----------:|:-----------------:|
-| Team Leader   |    **ABARNA R**   |
+| Team Leader   |    **RAJAN C**   |
 | Team Member 1 |   **ABARNA R**  |
 | Team Member 2 |  **BHAVATHARANI M**  |
 | Team Member 3 | **DHANASRI M** |
